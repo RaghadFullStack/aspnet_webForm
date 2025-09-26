@@ -14,7 +14,7 @@ This is an ASP.NET Web Forms application that includes user registration functio
 - C# Programming Language
 - Bootstrap CSS Framework
 - jQuery JavaScript Library
-- Microsoft SQL Server (assumed based on typical Web Forms applications) 
+-  SQL Server 
 
 ## Project Structure
 - `Controls/` - Custom ASP.NET pages (Engs.aspx, userRegistration.aspx)
